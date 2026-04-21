@@ -3,7 +3,7 @@
 int main(void)
 {
 	int x, y, result;
-	printf("µÎ °³ÀÇ Á¤¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("ë‘ ê°œì˜ ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf_s("%d %d,", &x, &y);
 
 	
