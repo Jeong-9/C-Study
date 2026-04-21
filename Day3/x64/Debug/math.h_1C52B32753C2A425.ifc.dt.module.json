@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\math.obj",
+            "outputs": [
+                "x64\\Debug\\math.h_1C52B32753C2A425.ifc.dt.module.json",
+                "x64\\Debug\\math.h_1C52B32753C2A425.ifc.dt.d.json",
+                "x64\\Debug\\math.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\c언어\\day3_1\\day3_1\\math.h",
+                    "source-path": "c:\\c언어\\day3_1\\day3_1\\math.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

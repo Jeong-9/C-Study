@@ -1,0 +1,12 @@
+﻿  Scanning sources for module dependencies...
+  math.h
+  Compiling...
+  math.h
+  day3_4장.c
+  day3_5장.c
+  day3_study.c
+  test_day3.c
+  코드를 생성하고 있습니다...
+  day3_1.vcxproj -> C:\c언어\day3_1\x64\Debug\day3_1.exe
+  day3_1.vcxproj -> C:\c언어\day3_1\x64\Debug\day3_1.pdb (Partial -> Full PDB)
+C:\c??\day3_1\x64\Debug\day3_1.pdb : fatal error CMF1107: 
